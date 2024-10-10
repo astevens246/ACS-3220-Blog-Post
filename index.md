@@ -1,8 +1,12 @@
-![News API](./images/Screen Shot 2024-10-10 at 10.11.01 AM.png)
-Deploying a News API: My Journey with Docker, CapRover, and Uptime Monitoring
+# Deploying a News API: My Journey with Docker, CapRover, and Uptime Monitoring
 
 Introduction
 In this blog post, I want to share how I set up a News API using tools like Docker, CapRover, UptimeRobot, and DigitalOcean. This project helped me learn a lot about deploying and monitoring applications.
+
+Here is a screen shot of my homepage: 
+
+![News API Deployment](./images/Screen%20Shot%202024-10-10%20at%2010.11.01%20AM.png)
+
 
 Project Overview
 The News API lets users fetch, create, update, and delete news stories. I built this project to learn about RESTful APIs and get hands-on experience with deployment tools.
