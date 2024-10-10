@@ -1,3 +1,4 @@
+![News API] (./images/Screen Shot 2024-10-10 at 10.11.01 AM.png)
 Deploying a News API: My Journey with Docker, CapRover, and Uptime Monitoring
 
 Introduction
@@ -28,7 +29,7 @@ Deploying with CapRover
    2. Logged into my CapRover server.
    3. Created a new app and deployed my Docker container.
    4. Set up environment variables for my database.
-   
+
 # Install CapRover CLI
 npm install -g caprover
 
