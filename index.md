@@ -1,4 +1,4 @@
-![News API] (./images/Screen Shot 2024-10-10 at 10.11.01 AM.png)
+![News API](./images/Screen Shot 2024-10-10 at 10.11.01 AM.png)
 Deploying a News API: My Journey with Docker, CapRover, and Uptime Monitoring
 
 Introduction
